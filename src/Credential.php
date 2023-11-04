@@ -9,6 +9,7 @@ class Credential
 {
     public $redis;
     private $redisConfig;
+    private $redisOptions;
 
     /**
      * construct class with redis config if pass

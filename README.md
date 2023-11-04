@@ -1,6 +1,12 @@
 # PHP Credential Manager
 
+[![Latest Version](https://img.shields.io/github/v/release/not-empty/credential-manager-php-lib.svg?style=flat-square)](https://github.com/not-empty/credential-manager-php-lib/releases)
+[![codecov](https://codecov.io/gh/not-empty/credential-manager-php-lib/graph/badge.svg?token=AEMV163UW6)](https://codecov.io/gh/not-empty/credential-manager-php-lib)
+[![CI Build](https://img.shields.io/github/actions/workflow/status/not-empty/credential-manager-php-lib/php.yml)](https://github.com/not-empty/credential-manager-php-lib/actions/workflows/php.yml)
+[![Downloads Old](https://img.shields.io/packagist/dt/kiwfy/credential-manager-php?logo=old&label=downloads%20legacy)](https://packagist.org/packages/kiwfy/credential-manager-php)
+[![Downloads](https://img.shields.io/packagist/dt/not-empty/credential-manager-php-lib?logo=old&label=downloads)](https://packagist.org/packages/not-empty/credential-manager-php-lib)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Packagist License (custom server)](https://img.shields.io/packagist/l/not-empty/credential-manager-php-lib)](https://github.com/not-empty/credential-manager-php-lib/blob/master/LICENSE)
 
 PHP library for search credential in redis with Predis.
 

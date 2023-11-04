@@ -30,7 +30,7 @@ $credential = new Credential($redisConfig);
 $credential->setCredential(
     'originName',
     'serviceName',
-    'CredentialRedisConfigSample'
+    'CredentialSample'
 );
 $getCredential = $credential->getCredential('originName', 'serviceName');
 var_dump($getCredential);

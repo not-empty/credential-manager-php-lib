@@ -1,7 +1,7 @@
 {
     "name": "not-empty/credential-manager-php-lib",
     "description": "PHP library for search credential in redis with Predis",
-    "version": "6.0.0",
+    "version": "7.0.0",
     "type": "library",
     "license": "GPL-3.0-only",
     "require": {
@@ -47,6 +47,7 @@
         "phpunit/phpunit": "^9.6",
         "mockery/mockery": "^1.6",
         "squizlabs/php_codesniffer": "^3.7",
-        "phpmd/phpmd": "^2.14"
+        "phpmd/phpmd": "^2.14",
+        "pdepend/pdepend": "2.15.*"
     }
 }
